@@ -1,7 +1,35 @@
 <html>
 <body>
-<h1>Gonzalo Cortez Huerta 22210761</h1>
-<!--StartFragment--><html><head></head><body><h1>Patrón de Diseño Abstract Factory – Modalidades de Enseñanza</h1><h2>2. Introducción al patrón Abstract Factory</h2><p>El <strong>patrón de diseño Abstract Factory</strong> pertenece a los <strong>patrones creacionales</strong>, cuyo objetivo es crear familias de objetos relacionados sin especificar sus clases concretas.</p><p>Este patrón permite que un sistema sea independiente de cómo se crean, componen o representan los objetos. En lugar de crear objetos directamente con <code inline="">new</code>, se utilizan <strong>fábricas abstractas</strong> que definen métodos para crear los objetos, y posteriormente <strong>fábricas concretas</strong> que implementan dichas creaciones.</p><p>En el contexto educativo, el patrón puede utilizarse para crear diferentes <strong>modalidades de enseñanza</strong>, donde cada modalidad genera su propia <strong>guía de estudio</strong> y <strong>tipo de examen</strong>.</p>
+    
+# Instituto Tecnológico
+
+## Materia: Patrones de Diseño
+
+---
+
+# Actividad de Evidencia 1 – Unidad 2
+
+## Implementación del Patrón Abstract Factory
+
+---
+
+**Alumno:** Gonzalo Cortez Huerta
+
+**Número de Control:** 22210761
+
+**Materia:** Patrones de Diseño
+
+**Actividad:** Actividad de Evidencia 1_U2 – Abstract Factory
+
+**Profesor:** *(Maribel Guerrero Luis)*
+
+**Carrera:** *(Sistemas Computacionales)*
+
+**Fecha:** *(4 de marzo del 2026)*
+
+[![Chat-GPT-Image-5-mar-2026-03-03-05.png](https://i.postimg.cc/VLTLXGqZ/Chat-GPT-Image-5-mar-2026-03-03-05.png)](https://postimg.cc/svYrrJ05)
+
+<!--StartFragment--><html><head></head><body><h1>Patrón de Diseño Abstract Factory </h1><h2>2. Introducción al patrón Abstract Factory</h2><p>El <strong>patrón de diseño Abstract Factory</strong> pertenece a los <strong>patrones creacionales</strong>, cuyo objetivo es crear familias de objetos relacionados sin especificar sus clases concretas.</p><p>Este patrón permite que un sistema sea independiente de cómo se crean, componen o representan los objetos. En lugar de crear objetos directamente con <code inline="">new</code>, se utilizan <strong>fábricas abstractas</strong> que definen métodos para crear los objetos, y posteriormente <strong>fábricas concretas</strong> que implementan dichas creaciones.</p><p>En el contexto educativo, el patrón puede utilizarse para crear diferentes <strong>modalidades de enseñanza</strong>, donde cada modalidad genera su propia <strong>guía de estudio</strong> y <strong>tipo de examen</strong>.</p>
 
 [![image.png](https://i.postimg.cc/wBTPvFCz/image.png)](https://postimg.cc/BjkN75Z7)
 
